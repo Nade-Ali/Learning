@@ -1,0 +1,14 @@
+div{
+    padding: 50px;
+    background-color: bisque;
+    padding-bottom: 50px;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+}
+p{
+    text-align: center;
+    padding: 0px 50px 75px;
+}
